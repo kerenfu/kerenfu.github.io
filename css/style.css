@@ -72,7 +72,7 @@ strong, span {
   font-weight: bold;
   letter-spacing: 1.6px;
   padding: 14px 32px 18px 32px;
-  margin-top: 32px;
+  margin-top: 10px;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
 }
@@ -304,8 +304,8 @@ a:hover, a:active, a:focus {
 }
 
 #home img {
-  width: 120px;
-  height: 120px;
+	width: 200px;
+	height: 200px;
 }
 
 
