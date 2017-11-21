@@ -480,16 +480,19 @@ a:hover, a:active, a:focus {
 
 @media (min-width: 768px) and (max-width: 1024px) {
   #home {
+    height: 50vh;
   }
 }
 
 @media (min-width: 667px) and (max-width: 767px) {
   #home {
+    height: 140vh;
   }
 }
 
 @media (min-width: 568px) and (max-width: 665px) {
   #home {
+    height: 190vh;
   }
 }
 
