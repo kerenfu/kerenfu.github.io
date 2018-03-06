@@ -130,12 +130,12 @@ a:hover, a:active, a:focus {
   border-radius: 5px;
 }
 
-#about, #work, #projects, #services,
+#about, #work, #projects, #services, #courses,
 #contact{
   border-top: 1px solid #f0f0f0;
   border-bottom: 1px solid #f0f0f0;
 }
-#home, #about, #work, #projects, #services, #news,
+#home, #about, #work, #projects, #services, #news, #courses,
 #contact{
   padding-bottom: 50px;
 }
